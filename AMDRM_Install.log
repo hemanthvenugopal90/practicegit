@@ -1,0 +1,4 @@
+8/1/2020 2:02:47 PM :: Function ExecuteCPUODBatchFiles Started
+8/1/2020 2:02:47 PM :: Function ExecuteFiles strBatchFilePath "C:\Program Files\AMD\RyzenMaster\DriverUtility.bat" -i
+8/1/2020 2:02:54 PM :: Function ExecuteFiles errReturn 0 for file "C:\Program Files\AMD\RyzenMaster\DriverUtility.bat" -i.
+8/1/2020 2:02:54 PM :: Function ExecuteCPUODBatchFiles Ended
